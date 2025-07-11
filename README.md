@@ -60,7 +60,7 @@ The project uses the `laptop_data.csv` file.
 ## Files
 
 *   `laptop_data.csv`: The dataset.
-*   `your_notebook_name.ipynb`: (Replace with your notebook file name) Contains the project code.
+*   `Laptop_price_predictor.ipynb`: Contains the project code.
 
 
 ## How to Run
