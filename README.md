@@ -17,6 +17,7 @@ To develop an accurate model for predicting laptop prices.
 
 The project uses the `laptop_data.csv` file.
 
+
 ## Dependencies
 
 *   pandas
@@ -24,7 +25,6 @@ The project uses the `laptop_data.csv` file.
 *   matplotlib
 *   seaborn
 *   scikit-learn
-*   xgboost
 
 ## Files
 
@@ -55,7 +55,7 @@ The project uses the `laptop_data.csv` file.
 *   matplotlib
 *   seaborn
 *   scikit-learn
-*   xgboost
+
 
 ## Files
 
@@ -65,11 +65,11 @@ The project uses the `laptop_data.csv` file.
 
 ## How to Run
 
-1.  Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn xgboost`
+1.  Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn `
 2.  Run the code in `Laptop_price_predictor.ipynb`:  Contains the project code.
 
 
 ## How to Run
 
-1.  Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn xgboost`
+1.  Install dependencies: `pip install pandas numpy matplotlib seaborn scikit-learn `
 2.  Run the code in `Laptop_price_predictor.ipynb`.
