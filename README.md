@@ -6,6 +6,14 @@ This project focuses on building a machine learning model to predict laptop pric
 
 To develop an accurate model for predicting laptop prices.
 
+## Demo
+
+Here is a screenshot of the Streamlit app running locally:
+
+![Alt text](https://github.com/sandeshinsights/Linear-Regression-Model-for-Laptop-Price-Prediction/blob/92913a42a04dd0a7e8ba3c0cfbabc58e24830eaf/laptop_predictor_deploy.gif)
+
+
+
 ## Key Steps
 
 *   Data Cleaning and Preparation
