@@ -10,7 +10,7 @@ To develop an accurate model for predicting laptop prices.
 
 Here is a screenshot of the Streamlit app running locally:
 
-![Alt text](https://github.com/sandeshinsights/Linear-Regression-Model-for-Laptop-Price-Prediction/blob/92913a42a04dd0a7e8ba3c0cfbabc58e24830eaf/laptop_predictor_deploy.gif)
+![Alt text](https://github.com/sandeshinsights/Linear-Regression-Model-for-Laptop-Price-Prediction/blob/1ce6610241a795322f5ae7955af7f14f38029cb6/LPP.gif)
 
 
 
